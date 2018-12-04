@@ -1,0 +1,5 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+include: [".well-known"]
